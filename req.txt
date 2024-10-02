@@ -26,7 +26,6 @@ SQLAlchemy==2.0.35
 fastapi==0.115.0
 typing
 uvicorn==0.30.6
-json
 requests
 folium==0.17.0
 logging
